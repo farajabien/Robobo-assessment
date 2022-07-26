@@ -1,0 +1,17 @@
+.card {
+  width: 12em;
+  padding: 1em;
+  border: 1px solid black;
+  margin: 2em;
+}
+
+.card  img{
+  display: inline-block;
+  width: 5em;
+}
+
+.card:hover{
+  cursor: pointer;
+  border: 3px solid #09c372;;
+
+}
